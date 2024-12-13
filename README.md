@@ -12,7 +12,7 @@ Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 - **Git** - Controle de versão e colaboração em projetos.
 
 ## 🚀 Projetos em Destaque
-- **[Projeto 1](https://matheushenrique02.github.io/projeto2/)**:Projeto de site responsivo com flex-box, utilizando HTML e CSS
+- **[Projeto 1](https://matheushenrique02.github.io/projeto-flexbox/)**:Projeto de site responsivo com flex-box, utilizando HTML e CSS
 - **[Projeto 2](https://matheushenrique02.github.io/projeto-social/)**:Projeto de redes sociais, utilizando HTML e CSS
 - **[Projeto 3](https://matheushenrique02.github.io/Projeto-brasileirao/)**:Tabela do campeonato brasileiro 2024, utilizando HTML e CSS
 - **[Projeto 4](https://matheushenrique02.github.io/projeto-batman/)**:Projeto Site do filme Batman(2022), utilizando HTML e CSS
