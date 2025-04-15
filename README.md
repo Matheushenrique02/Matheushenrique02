@@ -1,15 +1,17 @@
 # Olá, sou Matheus Henrique! 👋
 
-Sou **Desenvolvedor** com experiência em **Python**, **HTML/CSS** e **MySQL**.  
+Sou **Desenvolvedor** com experiência em , **HTML/CSS** ,**Javascript**,**React** 
 Sempre em busca de aprender novas ferramentas e evoluir como programador.  
 Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 
 ## 💻 Tecnologias que uso:
-- **Python** - Desenvolvimento de scripts, automações e aplicações.
-- **HTML/CSS** - Criação de sites e interfaces de usuário.
-- **MySQL** - Desenvolvimento de bancos de dados eficientes e seguros.
-- **JavaScript** - Aprendendo a criar dinâmicas e interações no frontend.   
-- **Git** - Controle de versão e colaboração em projetos.
+**HTML/CSS** – Criação de sites e interfaces de usuário.
+
+**JavaScript** – Desenvolvimento de interações e funcionalidades no frontend.
+
+**React** – Criação de interfaces modernas, componentizadas e reutilizáveis.
+
+**Git** – Controle de versão e colaboração em projetos.
 
 ## 🚀 Projetos em Destaque
 - **[Projeto 1](https://matheushenrique02.github.io/projeto-imperatriz/)**:Projeto de site 1 responsivo com flex-box, utilizando HTML,CSS
@@ -20,13 +22,15 @@ Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 - **[Projeto 6](https://matheushenrique02.github.io/Projeto-cordel/)**:Cordel com o tema de criptomoedas, utilizando HTML e CSS
 - **[Projeto 7](https://matheushenrique02.github.io/site-android.new/)**:Site que ilustra como surgiu o mascote do android, utilizando HTML e CSS
 - **[Projeto 8](https://matheushenrique02.github.io/projeto-login/)**:Site simulando uma tela de login, utilizando HTML e CSS
+- **[Projeto 9](https://matheushenrique02.github.io/projeto-rick-and-morty/)**:Utilizando uma api de rick e morty , ilustrando os personagens e informações
+- **[Projeto 10](https://matheushenrique02.github.io/projeto-spotify/)**:Player de musicas , simulando o spotify
 
 
 ## 📚 Atualmente aprendendo
-- **JavaScript e Frontend
+- **JavaScript/react e Frontend
 
 ## 📫 Como me encontrar:
-- **LinkedIn**: [Matheus Henrique](https://www.linkedin.com/in/matheus-henrique-ab94402a5/)
+- **LinkedIn**: [Matheus Henrique](linkedin.com/in/matheus-henrique-ab94402a5)
 - **Email**: matheusemail222@gmail.com
 
 ---
