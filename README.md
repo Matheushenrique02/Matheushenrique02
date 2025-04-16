@@ -26,8 +26,8 @@ Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 - **[Projeto 10](https://matheushenrique02.github.io/projeto-spotify/)**:Player de musicas , simulando o spotify
 - **[Projeto 11](https://matheushenrique02.github.io/projeto-relogio/)**:Relógio Digital com JS
 - **[Projeto 12](https://matheushenrique02.github.io/projeto-imc/)**:Calculadora IMC com JS
-- **[Projeto 12](https://matheushenrique02.github.io/projeto-lampada/)**:Simulando uma lampada com JS ela acende , apaga e se der 2 clicks quebra
-
+- **[Projeto 13](https://matheushenrique02.github.io/projeto-lampada/)**:Simulando uma lampada com JS ela acende , apaga e se der 2 clicks quebra
+- **[Projeto 14]( https://matheushenrique02.github.io/projeto-semaforo/)**:Simulando um semaforo e sua troca de cores 
 
 ## 📚 Atualmente aprendendo
 - **JavaScript/react e Frontend
