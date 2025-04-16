@@ -24,6 +24,8 @@ Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 - **[Projeto 8](https://matheushenrique02.github.io/projeto-login/)**:Site simulando uma tela de login, utilizando HTML e CSS
 - **[Projeto 9](https://matheushenrique02.github.io/projeto-rick-and-morty/)**:Utilizando uma api de rick e morty , ilustrando os personagens e informações
 - **[Projeto 10](https://matheushenrique02.github.io/projeto-spotify/)**:Player de musicas , simulando o spotify
+- **[Projeto 11](https://matheushenrique02.github.io/projeto-relogio/)**:Relógio Digital com JS
+- **[Projeto 12](https://matheushenrique02.github.io/projeto-imc/)**:Calculadora IMC com JS 
 
 
 ## 📚 Atualmente aprendendo
