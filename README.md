@@ -34,7 +34,7 @@ Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 - **[Projeto 18](https://matheushenrique02.github.io/projeto-contagem/)**:Contagem regressiva utilizando js 
 - **[Projeto 19](https://matheushenrique02.github.io/projeto-todo/)**:Lista de tarefas utilizando JS
 - **[Projeto 20](https://matheushenrique02.github.io/projeto-crud/)**:Cadastro completo de clientes 
-- 
+
   
 
 ## 📚 Atualmente aprendendo
