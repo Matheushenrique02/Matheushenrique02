@@ -17,25 +17,23 @@ Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 - **[Projeto 1](https://matheushenrique02.github.io/projeto-imperatriz/)**:Projeto de site 1 responsivo com flex-box, utilizando HTML,CSS
 - **[Projeto 2](https://matheushenrique02.github.io/projeto-flexbox/)**:Projeto de site 2 responsivo com flex-box, utilizando HTML,CSS
 - **[Projeto 3](https://matheushenrique02.github.io/projeto-social/)**:Projeto de redes sociais, utilizando HTML e CSS
-- **[Projeto 4](https://matheushenrique02.github.io/Projeto-brasileirao/)**:Tabela do campeonato brasileiro 2024, utilizando HTML e CSS
-- **[Projeto 5](https://matheushenrique02.github.io/projeto-batman/)**:Projeto Site do filme Batman(2022), utilizando HTML e CSS
-- **[Projeto 6](https://matheushenrique02.github.io/Projeto-cordel/)**:Cordel com o tema de criptomoedas, utilizando HTML e CSS
-- **[Projeto 7](https://matheushenrique02.github.io/site-android.new/)**:Site que ilustra como surgiu o mascote do android, utilizando HTML e CSS
-- **[Projeto 8](https://matheushenrique02.github.io/projeto-login/)**:Site simulando uma tela de login, utilizando HTML e CSS
-- **[Projeto 9](https://matheushenrique02.github.io/projeto-rick-and-morty/)**:Utilizando uma api de rick e morty , ilustrando os personagens e informações
-- **[Projeto 10](https://matheushenrique02.github.io/projeto-spotify/)**:Player de musicas , simulando o spotify
-- **[Projeto 11](https://matheushenrique02.github.io/projeto-relogio/)**:Relógio Digital com JS
-- **[Projeto 12](https://matheushenrique02.github.io/projeto-imc/)**:Calculadora IMC com JS
-- **[Projeto 13](https://matheushenrique02.github.io/projeto-lampada/)**:Simulando uma lampada com JS 
-- **[Projeto 14]( https://matheushenrique02.github.io/projeto-semaforo/)**:Simulando um semaforo e sua troca de cores
-- **[Projeto 15](https://matheushenrique02.github.io/projeto-drumkit/)**:Simulando sons de bateria ao clicar nas teclas
-- **[Projeto 16](http://matheushenrique02.github.io/preco-btc/)**:Preço do Btc/BRL atualizado
-- **[Projeto 17](https://matheushenrique02.github.io/projeto-caes/)**:gerando fotos de cachorros aleatórios utilizando uma api
-- **[Projeto 18](https://matheushenrique02.github.io/projeto-contagem/)**:Contagem regressiva utilizando js 
-- **[Projeto 19](https://matheushenrique02.github.io/projeto-todo/)**:Lista de tarefas utilizando JS,tarefas são salvas utilizando o localStorage
-- **[Projeto 20](https://matheushenrique02.github.io/projeto-crud/)**:Cadastro completo de clientes
-- **[Projeto 21](https://streetxbr.github.io/_/)**:Modelo de site responsivo,para uma loja de camisetas
--  **[Projeto 21](https://matheushenrique02.github.io/to-do-list/)**:To-do List simples , cadastro de tarefas 
+- **[Projeto 4](https://matheushenrique02.github.io/Projeto-cordel/)**:Cordel com o tema de criptomoedas, utilizando HTML e CSS
+- **[Projeto 5](https://matheushenrique02.github.io/site-android.new/)**:Site que ilustra como surgiu o mascote do android, utilizando HTML e CSS
+- **[Projeto 6](https://matheushenrique02.github.io/projeto-login/)**:Site simulando uma tela de login, utilizando HTML e CSS
+- **[Projeto 7](https://matheushenrique02.github.io/projeto-rick-and-morty/)**:Utilizando uma api de rick e morty , ilustrando os personagens e informações
+- **[Projeto 8](https://matheushenrique02.github.io/projeto-spotify/)**:Player de musicas , simulando o spotify
+- **[Projeto 9](https://matheushenrique02.github.io/projeto-relogio/)**:Relógio Digital com JS
+- **[Projeto 10](https://matheushenrique02.github.io/projeto-imc/)**:Calculadora IMC com JS
+- **[Projeto 11](https://matheushenrique02.github.io/projeto-lampada/)**:Simulando uma lampada com JS 
+- **[Projeto 12]( https://matheushenrique02.github.io/projeto-semaforo/)**:Simulando um semaforo e sua troca de cores
+- **[Projeto 13](https://matheushenrique02.github.io/projeto-drumkit/)**:Simulando sons de bateria ao clicar nas teclas
+- **[Projeto 14](http://matheushenrique02.github.io/preco-btc/)**:Preço do Btc/BRL atualizado
+- **[Projeto 15](https://matheushenrique02.github.io/projeto-caes/)**:gerando fotos de cachorros aleatórios utilizando uma api
+- **[Projeto 16](https://matheushenrique02.github.io/projeto-contagem/)**:Contagem regressiva utilizando js 
+- **[Projeto 17](https://matheushenrique02.github.io/projeto-todo/)**:Lista de tarefas utilizando JS,tarefas são salvas utilizando o localStorage
+- **[Projeto 18](https://matheushenrique02.github.io/projeto-crud/)**:Cadastro completo de clientes
+- **[Projeto 19](https://streetxbr.github.io/_/)**:Modelo de site responsivo,para uma loja de camisetas
+- **[Projeto 20](https://matheushenrique02.github.io/to-do-list/)**:To-do List simples , cadastro de tarefas 
 
   
 
