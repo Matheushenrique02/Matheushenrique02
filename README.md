@@ -35,6 +35,7 @@ Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 - **[Projeto 19](https://streetxbr.github.io/_/)**:Modelo de site responsivo,para uma loja de camisetas
 - **[Projeto 20](https://matheushenrique02.github.io/to-do-list/)**:To-do List simples , cadastro de tarefas
 - **[Projeto 21](https://matheushenrique02.github.io/jogo-da-memoria/)**:Jogo da memória com JS
+- **[Projeto 22](https://matheushenrique02.github.io/projeto-quiz/)**:Quiz simples com 3 perguntas com JS 
 
   
 
