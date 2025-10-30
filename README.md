@@ -5,13 +5,12 @@ Sempre em busca de aprender novas ferramentas e evoluir como programador.
 Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 
 ## 💻 Tecnologias que uso:
-**HTML/CSS** – Criação de sites e interfaces de usuário.
-
-**JavaScript** – Desenvolvimento de interações e funcionalidades no frontend.
-
-**React** – Criação de interfaces modernas, componentizadas e reutilizáveis.
-
-**Git** – Controle de versão e colaboração em projetos.
+**HTML & CSS** — Estruturação e estilização de interfaces modernas e responsivas.
+**JavaScript** (ES6+) — Criação de funcionalidades dinâmicas e interativas no front-end.
+**React** — Desenvolvimento de interfaces componentizadas, performáticas e reutilizáveis.
+**Next.js** — Criação de aplicações React otimizadas, com renderização no servidor e rotas dinâmicas.
+**Tailwind CSS** — Estilização ágil e consistente, com foco em produtividade e design limpo.
+**Git & GitHub** — Controle de versão, versionamento de código e colaboração em equipe.
 
 ## 🚀 Projetos em Destaque
 - **[Projeto 1](https://matheushenrique02.github.io/projeto-imperatriz/)**:Projeto de site 1 responsivo com flex-box, utilizando HTML,CSS
@@ -35,12 +34,16 @@ Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 - **[Projeto 19](https://streetxbr.github.io/_/)**:Modelo de site responsivo,para uma loja de camisetas
 - **[Projeto 20](https://matheushenrique02.github.io/to-do-list/)**:To-do List simples , cadastro de tarefas
 - **[Projeto 21](https://matheushenrique02.github.io/jogo-da-memoria/)**:Jogo da memória com JS
-- **[Projeto 22](https://matheushenrique02.github.io/projeto-quiz/)**:Quiz simples com 3 perguntas com JS 
+- **[Projeto 22](https://matheushenrique02.github.io/projeto-quiz/)**:Quiz simples com 3 perguntas com JS
+- **[Projeto 23](https://matheushenrique02.github.io/portifolio/#/)**:Meu portfolio
+- **[Projeto 24](https://flamengo-2019.vercel.app/)**:Monte sua escalação do flamengo 2019
+- 
+  
 
   
 
 ## 📚 Atualmente aprendendo
-- **JavaScript/react e Frontend
+- **Tailwind e next.JS
 
 ## 📫 Como me encontrar:
 - **LinkedIn**: [Matheus Henrique](linkedin.com/in/matheus-henrique-ab94402a5)
