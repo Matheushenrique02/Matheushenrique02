@@ -5,11 +5,17 @@ Sempre em busca de aprender novas ferramentas e evoluir como programador.
 Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 
 ## 💻 Tecnologias que uso:
+
 **HTML & CSS** — Estruturação e estilização de interfaces modernas e responsivas.
+
 **JavaScript** (ES6+) — Criação de funcionalidades dinâmicas e interativas no front-end.
+
 **React** — Desenvolvimento de interfaces componentizadas, performáticas e reutilizáveis.
+
 **Next.js** — Criação de aplicações React otimizadas, com renderização no servidor e rotas dinâmicas.
+
 **Tailwind CSS** — Estilização ágil e consistente, com foco em produtividade e design limpo.
+
 **Git & GitHub** — Controle de versão, versionamento de código e colaboração em equipe.
 
 ## 🚀 Projetos em Destaque
@@ -37,7 +43,7 @@ Atualmente, procuro uma vaga como **estagiário** ou **desenvolvedor júnior**.
 - **[Projeto 22](https://matheushenrique02.github.io/projeto-quiz/)**:Quiz simples com 3 perguntas com JS
 - **[Projeto 23](https://matheushenrique02.github.io/portifolio/#/)**:Meu portfolio
 - **[Projeto 24](https://flamengo-2019.vercel.app/)**:Monte sua escalação do flamengo 2019
-- 
+
   
 
   
